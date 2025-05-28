@@ -1,0 +1,10 @@
+{
+    "example_key": "example_value",
+    "login_status": "",
+    "username": "",
+    "registration_status": "",
+    "onboarding_status": "",
+    "first_name": "",
+    "last_name": "",
+    "api_login_status": ""
+}

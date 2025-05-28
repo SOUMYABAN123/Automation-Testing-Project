@@ -1,0 +1,2 @@
+username,password,expected_result,initial_url,login_page_url,employee_registration_url
+valid_username,valid_password,success,https://www.vaultverify.com/,https://app.vaultverify.com/VVApp/,https://app.vaultverify.com/vvapp/Registration_EP.aspx

@@ -1,0 +1,7 @@
+username,password,confirm_password,email,expected_result
+new_user,NewPass123,NewPass123,new_user@example.com,success
+existing_user,ExistingPass123,ExistingPass123,existing_user@example.com,error
+mismatch_user,Pass123,Pass321,mismatch_user@example.com,error
+gov_verifier,Password1!,Password1!,gov_verifier@example.com,success
+comm_verifier,CommPass1!,CommPass1!,comm_verifier@example.com,success
+auto_cred_verifier,AutoCredPass1!,AutoCredPass1!,auto_cred_verifier@example.com,success
